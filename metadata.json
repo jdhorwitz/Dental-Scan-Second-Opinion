@@ -1,0 +1,5 @@
+{
+  "name": "Dental Scan Second Opinion",
+  "description": "An application that integrates with dental offices, allowing users to upload their dental scans to get a second opinion from an AI-powered verified dentist.",
+  "requestFramePermissions": []
+}
